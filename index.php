@@ -1,3 +1,3 @@
 <? php
-  print "Sixth code"
+  print "Seven code"
 ?>

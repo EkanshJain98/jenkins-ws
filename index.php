@@ -1,3 +1,3 @@
 <? php
-  print "forth code"
+  print "fiveth code"
 ?>
